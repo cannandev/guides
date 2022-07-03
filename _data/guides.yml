@@ -1,0 +1,57 @@
+accessibility_guide:
+  title: Accessibility Guide
+  description: A comprehensive guide on how government agencies can recruit, hire, onboard, and retain digital talent.
+  toc:
+    - title: Introduction
+      url: /work/toolkits/digital-talent-management/
+    - title: Understanding your talent gaps
+      url: /work/toolkits/digital-talent-management/understanding-your-talent-gaps/
+    - title: Developing a digital talent strategy
+      url: /work/toolkits/digital-talent-management/developing-a-digital-talent-strategy/
+    - title: Building a digital team
+      url: /work/toolkits/digital-talent-management/building-a-digital-team
+    - title: Leading and managing a digital team
+      url: /work/toolkits/digital-talent-management/leading-and-managing-a-digital-team/
+    - title: Guiding your digital transformation
+      url: /work/toolkits/digital-talent-management/guiding-your-digital-transformation/
+    - title: Creating a productive and collaborative work environment
+      url: /work/toolkits/digital-talent-management/creating-a-productive-and-collaborative-work-environment/
+    - title: Building a modern team culture
+      url: /work/toolkits/digital-talent-management/building-a-modern-team-culture/
+    - title: Recruiting
+      url: /work/toolkits/digital-talent-management/recruiting/
+    - title: Hiring
+      url: /work/toolkits/digital-talent-management/hiring/
+    - title: Onboarding
+      url: /work/toolkits/digital-talent-management/onboarding/
+    - title: Ensuring happy and engaged employees
+      url: /work/toolkits/digital-talent-management/ensuring-happy-and-engaged-employees/
+    - title: Keeping skills and ideas fresh
+      url: /work/toolkits/digital-talent-management/keeping-skills-and-ideas-fresh/
+    - title: Building a movement and a presence
+      url: /work/toolkits/digital-talent-management/building-a-movement-and-a-presence/
+    - title: How we wrote this guide
+      url: /work/toolkits/digital-talent-management/how-we-wrote-this-guide/
+    - title: "Appendix A: Sample interview questions"
+      url: /work/toolkits/digital-talent-management/appendix-a-sample-interview-questions/
+
+agile_guide:
+  title: Agile Guidebook
+  description: A guide for state & local agencies on how to improve cross-organizational data sharing.
+  toc:
+    - title: Introduction
+      url: /work/toolkits/data-sharing-playbook/
+    - title: Enabling data sharing
+      url: /work/toolkits/data-sharing-playbook/enabling-data-sharing/
+    - title: Responding to data requests
+      url: /work/toolkits/data-sharing-playbook/responding-to-data-requests/
+    - title: Safeguarding data
+      url: /work/toolkits/data-sharing-playbook/safeguarding-data/
+    - title: Preparing a successful data request
+      url: /work/toolkits/data-sharing-playbook/preparing-a-successful-data-request/
+    - title: Transferring data
+      url: /work/toolkits/data-sharing-playbook/transferring-data/
+    - title: "Appendix A: Setting SMART goals"
+      url: /work/toolkits/data-sharing-playbook/appendix-a-setting-smart-goals/
+    - title: "Appendix B: Linking datasets"
+      url: /work/toolkits/data-sharing-playbook/appendix-b-linking-datasets/
