@@ -4,15 +4,26 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <img src="https://agile.18f.gov/images/18f-logo-black.svg" style="height: 32px;" alt="18F logo">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="https://agile.18f.gov/images/18f-logo-black.svg" style="height: 32px;" alt="18F Home"></a>
 
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+
     {%- if page.guide_type -%}
     {{ page.guide_type }}
     {%- else -%}
     {{ site.title | escape }}
     {%- endif -%}
-    </a>
+
+
+   <section aria-label="Search component">
+    <form class="usa-search" role="search">
+      <label class="usa-sr-only" for="search-field">Search</label>
+      <input class="usa-input" id="search-field" type="search" name="search" />
+      <button class="usa-button" type="submit">
+        <span class="usa-search__submit-text">Search </span>
+      </button>
+    </form>
+  </section>
+
 
     {%- if titles_size > 0 -%}
     <nav class="site-nav">
@@ -27,12 +38,7 @@
       </label>
 
       <div class="trigger">
-        {%- for path in page_paths -%}
-        {%- assign my_page = site.pages | where: "path", path | first -%}
-        {%- if my_page.title -%}
-        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-        {%- endif -%}
-        {%- endfor -%}
+       _data/guides.yml > nav items
       </div>
     </nav>
     {%- endif -%}

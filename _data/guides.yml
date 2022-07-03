@@ -1,6 +1,9 @@
 accessibility_guide:
   title: Accessibility Guide
   description: A comprehensive guide on how government agencies can recruit, hire, onboard, and retain digital talent.
+  nav:
+    - title: Introduction
+      url: /work/toolkits/digital-talent-management/
   toc:
     - title: Introduction
       url: /work/toolkits/digital-talent-management/
@@ -38,6 +41,9 @@ accessibility_guide:
 agile_guide:
   title: Agile Guidebook
   description: A guide for state & local agencies on how to improve cross-organizational data sharing.
+  nav:
+    - title: Introduction
+      url: /work/toolkits/digital-talent-management/
   toc:
     - title: Introduction
       url: /work/toolkits/data-sharing-playbook/
