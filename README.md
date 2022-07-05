@@ -28,9 +28,10 @@ Search (per guide)
 
 |component name/link | include filename |
 | --- | --- |
-| Search | header.html |
-| Banner | header.html |
-| Identifier | footer.html |
+| Search | default.html > header.html |
+| Banner | default.html > banner.html |
+| Identifier | default.html > footer.html > identifier.html |
+| [Alerts](https://designsystem.digital.gov/components/alert/) | alerts.html |
 
 ### Content
 
@@ -49,3 +50,5 @@ Why we made the design decisions we did
 1. Site status (up/down/report)
 
 ## Contributing
+
+.github/ISSUE_TEMPLATE see [example](https://github.com/uswds/uswds-tutorial/blob/main/.github/ISSUE_TEMPLATE/bug_report.yaml)

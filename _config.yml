@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Looking for U.S. government information and services? Visit USA.gov
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+designurl: https://designsystem.digital.gov
 twitter_username: jekyllrb
 github_username: jekyll
 agency_primary: GSA
