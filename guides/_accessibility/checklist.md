@@ -1,7 +1,6 @@
 ---
 title: Checklist
 description: 'A simple checklist for determining if your site is accessible'
-permalink: /checklist/
 page_title: checklist
 layout: page
 sidenav: docs

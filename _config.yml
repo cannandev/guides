@@ -30,6 +30,13 @@ agency_secondary: TTS
 plugins:
   - jekyll-feed
 
+# Collections
+collections_dir: guides
+collections:
+  accessibility:
+    output: true
+    permalink: /:collection/:name
+
 # Page defaults
 defaults:
   - scope:
