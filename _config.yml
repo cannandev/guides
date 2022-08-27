@@ -33,14 +33,20 @@ plugins:
 # Page defaults
 defaults:
   - scope:
-      path: "pages/accessibility/*" # an empty string here means all files in the project
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: page
+  - scope:
+      path: "pages/accessibility/*"
     values:
       guide_type: Accessibility Guide
   - scope:
       path: "pages/agile/*" # an empty string here means all files in the project
     values:
       guide_type: Agile Guide
-#
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:slug
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
