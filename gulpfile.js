@@ -16,6 +16,7 @@ uswds.settings.version = 3;
 
 uswds.paths.dist.css = './assets/css';
 uswds.paths.dist.sass = './_sass';
+uswds.paths.dist.fonts = './assets/fonts';
 
 /**
  * Exports
@@ -25,3 +26,4 @@ uswds.paths.dist.sass = './_sass';
 exports.init = uswds.init;
 exports.compile = uswds.compile;
 exports.compileSass = uswds.compileSass;
+exports.copyFonts = uswds.copyFonts;
