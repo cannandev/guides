@@ -7,8 +7,8 @@ uswds_version: 5
 
 ## Installation
 
-Run `bundle exec jekyll serve`
-Run `bundle exec jekyll serve --livereload`
+Run `jekyll serve`
+Run `jekyll serve --livereload`
 
 ## Versioning/Releases
 
