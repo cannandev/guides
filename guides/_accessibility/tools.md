@@ -1,7 +1,7 @@
 ---
 title: Tools
 description: 'Tools we use to improve and test accessibility'
-permalink: /tools/
+alias: /tools/
 page_title: Accessibility-friendly Tools
 layout: page
 sidenav: docs

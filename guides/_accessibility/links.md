@@ -1,7 +1,7 @@
 ---
 title: Links and repetitive content
 description: 'How we deal with links and repetitive content'
-permalink: /links/
+alias: /links/
 page_title: Links and Repetitive Content
 layout: page
 sidenav: docs

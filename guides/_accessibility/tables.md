@@ -1,7 +1,7 @@
 ---
 title: Tables
 description: 'How we deal with tables'
-permalink: /tables/
+alias: /tables/
 page_title: Tables
 layout: page
 sidenav: docs
