@@ -1,7 +1,10 @@
 ---
+title:  "Modern Software Product Development"
+permalink: /modern-software-product-development/
 layout: page
-title: Modern Software Product Development
+sidenav: sidenav
 ---
+
 There are three basic approaches to software development: Waterfall, Agile, and Chaos.
 
 Chaos is when you don’t really have a plan, and you don’t really learn anything, but everybody’s super busy all the time. Chaos is often characterized (or justified, if you want to be more critical) as “firefighting”, and it is suggested that there is no time to plan or learn because there is just so much to do.
