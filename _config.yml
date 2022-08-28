@@ -35,28 +35,28 @@ collections_dir: guides
 collections:
   accessibility:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/  # trailing forward slash generates an index.html
   agile:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/
   brand:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/
   content:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/
   derisking:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/
   engineering:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/
   product:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/
   ux:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
 # Page defaults
 defaults:
   - scope:
@@ -64,8 +64,7 @@ defaults:
     values:
       layout: page
 
-# Permalinks
-permalink: /:categories/:year/:month/:day/:slug
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
