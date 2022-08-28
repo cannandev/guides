@@ -4,14 +4,14 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ " /" | relative_url }}"><img
-        src="https://agile.18f.gov/images/18f-logo-black.svg" style="height: 32px;" alt="18F Home"></a>
+    <a class="site-title" rel="author" href="/"><img src="https://agile.18f.gov/images/18f-logo-black.svg"
+        style="height: 32px;" alt="18F Home"></a>
 
 
     {%- if page.collection -%}
-    {{ page.collection }}
+    Collection: {{ page.collection }}
     {%- else -%}
-    {{ site.title | escape }}
+    Site title: {{ site.title | escape }}
     {%- endif -%}
 
 
