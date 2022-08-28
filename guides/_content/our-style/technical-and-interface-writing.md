@@ -1,6 +1,6 @@
 ---
 title: Technical and interface writing
-alias: /our-style/technical-and-interface-writing/
+permalink: /content/our-style/technical-and-interface-writing/
 sidenav: our-style
 sticky_sidenav: true
 subnav:

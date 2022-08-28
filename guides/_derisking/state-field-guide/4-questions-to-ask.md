@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Questions to ask | De-risking government technology: State software budgeting handbook | 18F"
-alias: /state-field-guide/questions-to-ask/
+permalink: /derisking/state-field-guide/questions-to-ask/
 sidenav: state
 sticky_sidenav: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Be concise
-alias: /our-approach/be-concise/
+permalink: /content/our-approach/be-concise/
 sidenav: our-approach
 sticky_sidenav: true
 subnav:

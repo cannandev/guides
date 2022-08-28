@@ -1,6 +1,6 @@
 ---
 title: Active voice
-alias: /our-style/active-voice/
+permalink: /content/our-style/active-voice/
 sidenav: our-style
 sticky_sidenav: true
 subnav:

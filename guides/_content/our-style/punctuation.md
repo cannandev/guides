@@ -1,6 +1,6 @@
 ---
 title: Punctuation
-alias: /our-style/punctuation/
+permalink: /content/our-style/punctuation/
 sidenav: our-style
 sticky_sidenav: true
 subnav:

@@ -1,6 +1,6 @@
 ---
 title: "Introduction | De-risking government technology: State Software Budgeting Handbook | 18F"
-alias: /state-field-guide/
+permalink: /derisking/state-field-guide/
 layout: page
 sidenav: state
 sticky_sidenav: true

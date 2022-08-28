@@ -1,6 +1,6 @@
 ---
 title: URLs and filenames
-alias: /our-style/urls-and-filenames/
+permalink: /content/our-style/urls-and-filenames/
 sidenav: our-style
 sticky_sidenav: true
 subnav:

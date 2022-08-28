@@ -1,6 +1,6 @@
 ---
 title: Avoid duplication
-alias: /our-approach/avoid-duplication/
+permalink: /content/our-approach/avoid-duplication/
 sidenav: our-approach
 sticky_sidenav: true
 ---

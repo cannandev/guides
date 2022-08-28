@@ -1,6 +1,6 @@
 ---
 title: Address the user
-alias: /our-approach/address-the-user/
+permalink: /content/our-approach/address-the-user/
 sidenav: our-approach
 sticky_sidenav: true
 ---

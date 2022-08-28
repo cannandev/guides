@@ -1,6 +1,6 @@
 ---
 title: Structure the content
-alias: /our-approach/structure-the-content/
+permalink: /content/our-approach/structure-the-content/
 sidenav: our-approach
 sticky_sidenav: true
 redirect_from:

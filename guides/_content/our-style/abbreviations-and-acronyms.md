@@ -1,6 +1,6 @@
 ---
 title: Abbreviations and acronyms
-alias: /our-style/abbreviations-and-acronyms/
+permalink: /content/our-style/abbreviations-and-acronyms/
 sidenav: our-style
 sticky_sidenav: true
 redirect_from:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "QASP | De-risking government technology | 18F"
-alias: /qasp/
+permalink: /derisking/qasp/
 redirect_from:
   - /state-field-guide/qasp/
 ---

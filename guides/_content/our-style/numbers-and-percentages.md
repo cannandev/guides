@@ -1,6 +1,6 @@
 ---
 title: Numbers and percentages
-alias: /our-style/numbers-and-percentages/
+permalink: /content/our-style/numbers-and-percentages/
 sidenav: our-style
 sticky_sidenav: true
 subnav:

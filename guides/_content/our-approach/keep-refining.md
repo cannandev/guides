@@ -1,6 +1,6 @@
 ---
 title: Keep refining
-alias: /our-approach/keep-refining/
+permalink: /content/our-approach/keep-refining/
 sidenav: our-approach
 sticky_sidenav: true
 subnav:

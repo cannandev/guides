@@ -1,6 +1,6 @@
 ---
 title: Our approach
-alias: /our-approach/
+permalink: /content/our-approach/
 sidenav: our-approach
 sticky_sidenav: true
 subnav:

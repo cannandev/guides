@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Doing the work | De-risking government technology: Federal field guide | 18F"
-alias: /federal-field-guide/doing-the-work/
+permalink: /derisking/federal-field-guide/doing-the-work/
 sidenav: federal
 sticky_sidenav: true
 subnav:

@@ -1,6 +1,6 @@
 ---
 title: Capitalization
-alias: /our-style/capitalization/
+permalink: /content/our-style/capitalization/
 sidenav: our-style
 sticky_sidenav: true
 subnav:

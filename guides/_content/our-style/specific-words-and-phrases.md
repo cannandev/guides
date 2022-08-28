@@ -1,6 +1,6 @@
 ---
 title: Specific words and phrases
-alias: /our-style/specific-words-and-phrases/
+permalink: /content/our-style/specific-words-and-phrases/
 sidenav: our-style
 sticky_sidenav: true
 ---

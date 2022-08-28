@@ -1,6 +1,6 @@
 ---
 title: Voice and tone
-alias: /our-style/voice-and-tone/
+permalink: /content/our-style/voice-and-tone/
 sidenav: our-style
 sticky_sidenav: true
 subnav:

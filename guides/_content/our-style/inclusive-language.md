@@ -1,6 +1,6 @@
 ---
 title: Inclusive language
-alias: /our-style/inclusive-language/
+permalink: /content/our-style/inclusive-language/
 sidenav: our-style
 sticky_sidenav: true
 subnav:
