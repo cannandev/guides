@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Craft a roadmap
-permalink: /define/roadmap/
+permalink: /product/define/roadmap/
 sidenav: define
 sticky_sidenav: true
 ---

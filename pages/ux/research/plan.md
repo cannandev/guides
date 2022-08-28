@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Plan
-permalink: /research/plan/
+permalink: /ux/research/plan/
 sidenav: research
 sticky_sidenav: true
 subnav:

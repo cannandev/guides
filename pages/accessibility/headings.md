@@ -1,7 +1,7 @@
 ---
 title: Headings
 description: 'Proper use of heading elements'
-permalink: /headings/
+permalink: /accessibility/headings/
 page_title: Headings
 layout: page
 sidenav: docs

@@ -1,5 +1,5 @@
 ---
-permalink: /typography/
+permalink: /brand/typography/
 layout: page
 title: Typography
 ---

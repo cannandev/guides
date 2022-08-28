@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Define the problem
-permalink: /define/problem/
+permalink: /product/define/problem/
 sidenav: define
 sticky_sidenav: true
 ---

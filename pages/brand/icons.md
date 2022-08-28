@@ -1,5 +1,5 @@
 ---
-permalink: /icons/
+permalink: /brand/icons/
 layout: page
 title: Icons
 ---

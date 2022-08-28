@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Understand the technical landscape
-permalink: /discover/technical/
+permalink: /product/discover/technical/
 sidenav: discover
 sticky_sidenav: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Define the future state
-permalink: /define/
+permalink: /product/define/
 sidenav: define
 sticky_sidenav: true
 ---

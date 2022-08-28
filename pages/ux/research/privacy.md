@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy
-permalink: /research/privacy/
+permalink: /ux/research/privacy/
 sidenav: research
 sticky_sidenav: true
 subnav:

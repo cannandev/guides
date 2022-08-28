@@ -1,6 +1,6 @@
 ---
 title: Names
-permalink: /our-style/names/
+permalink: /content/our-style/names/
 sidenav: our-style
 sticky_sidenav: true
 subnav:

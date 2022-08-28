@@ -1,5 +1,5 @@
 ---
-permalink: /research/lead/
+permalink: /ux/research/lead/
 layout: page
 title: Research lead
 sidenav: research

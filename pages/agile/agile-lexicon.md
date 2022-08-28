@@ -1,6 +1,6 @@
 ---
 title:  Agile lexicon
-permalink: /agile-lexicon/
+permalink: /agile/agile-lexicon/
 layout: page
 sidenav: sidenav
 ---

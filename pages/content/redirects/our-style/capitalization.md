@@ -1,6 +1,6 @@
 ---
 title: Capitalization
-permalink: /capitalization/
+permalink: /content/capitalization/
 layout: page
 redirect: /our-style/capitalization/
 ---

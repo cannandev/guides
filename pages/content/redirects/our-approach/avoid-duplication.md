@@ -1,6 +1,6 @@
 ---
 title: Avoid duplication
-permalink: /avoid-duplication/
+permalink: /content/avoid-duplication/
 layout: page
 redirect: /our-approach/avoid-duplication/
 ---

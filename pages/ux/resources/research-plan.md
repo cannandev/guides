@@ -1,6 +1,6 @@
 ---
 title: Research plan
-permalink: /resources/research-plan/
+permalink: /ux/resources/research-plan/
 layout: page
 redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/research-plan.md
 ---

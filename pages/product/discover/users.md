@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Understand users and their ‘as-is’ process
-permalink: /discover/users/
+permalink: /product/discover/users/
 sidenav: discover
 sticky_sidenav: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Measure success
-permalink: /deliver/measure/
+permalink: /product/deliver/measure/
 sidenav: deliver
 sticky_sidenav: true
 ---

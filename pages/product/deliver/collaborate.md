@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaborate and communicate
-permalink: /deliver/collaborate/
+permalink: /product/deliver/collaborate/
 sidenav: deliver
 sticky_sidenav: true
 ---

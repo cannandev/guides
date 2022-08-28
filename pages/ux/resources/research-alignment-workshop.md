@@ -1,5 +1,5 @@
 ---
-permalink: /research/alignment-workshop/
+permalink: /ux/research/alignment-workshop/
 layout: page
 title: Research alignment workshop
 sidenav: research

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bias
-permalink: /research/bias/
+permalink: /ux/research/bias/
 sidenav: research
 sticky_sidenav: true
 subnav:

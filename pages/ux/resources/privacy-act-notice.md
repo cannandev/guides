@@ -1,5 +1,5 @@
 ---
-permalink: /resources/privacy-act-notice/
+permalink: /ux/resources/privacy-act-notice/
 layout: page
 title: Privacy Act Notice
 sidenav: research

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ethics
-permalink: /research/ethics/
+permalink: /ux/research/ethics/
 sidenav: research
 sticky_sidenav: true
 subnav:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Build a prototype
-permalink: /design/build-a-prototype/
+permalink: /ux/design/build-a-prototype/
 sidenav: design
 sticky_sidenav: true
 subnav:

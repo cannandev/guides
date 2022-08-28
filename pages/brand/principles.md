@@ -1,5 +1,5 @@
 ---
-permalink: /principles/
+permalink: /brand/principles/
 layout: page
 title: Visual design principles
 ---

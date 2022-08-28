@@ -1,5 +1,5 @@
 ---
-permalink: /templates/
+permalink: /brand/templates/
 layout: page
 title: Templates
 ---

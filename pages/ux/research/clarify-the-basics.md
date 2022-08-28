@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clarify the basics
-permalink: /research/clarify-the-basics/
+permalink: /ux/research/clarify-the-basics/
 sidenav: research
 sticky_sidenav: true
 subnav:

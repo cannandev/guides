@@ -1,7 +1,7 @@
 ---
 title: Government Accessibility Resources
 description: 'Other accessibility resources from the U.S. Government'
-permalink: /gov-resources/
+permalink: /accessibility/gov-resources/
 page_title: Government Accessibility Resources
 layout: page
 ---

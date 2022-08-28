@@ -1,7 +1,7 @@
 ---
 title: Multimedia
 description: 'How we deal with multimedia'
-permalink: /multimedia/
+permalink: /accessibility/multimedia/
 page_title: Multimedia
 layout: page
 sidenav: docs

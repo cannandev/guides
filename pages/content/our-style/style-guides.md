@@ -1,6 +1,6 @@
 ---
 title: Style guides
-permalink: /our-style/style-guides/
+permalink: /content/our-style/style-guides/
 sidenav: our-style
 sticky_sidenav: true
 subnav:

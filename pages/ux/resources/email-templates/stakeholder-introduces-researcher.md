@@ -1,5 +1,5 @@
 ---
-permalink: /resources/email-templates/stakeholder-introduces-researcher
+permalink: /ux/resources/email-templates/stakeholder-introduces-researcher
 layout: page
 title: Email template - Stakeholder introduces researcher
 sidenav: research

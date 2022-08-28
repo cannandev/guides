@@ -1,7 +1,7 @@
 ---
 title: Hidden content
 description: 'How and when to hide content'
-permalink: /hidden-content/
+permalink: /accessibility/hidden-content/
 page_title: Hidden Content
 layout: page
 sidenav: docs

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enable partners
-permalink: /partners/
+permalink: /product/partners/
 sidenav: partners
 sticky_sidenav: true
 ---

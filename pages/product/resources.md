@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 sidenav: about
+permalink: /product/resources/
 sticky_sidenav: true
 ---
 

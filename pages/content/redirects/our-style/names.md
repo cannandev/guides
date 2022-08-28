@@ -1,6 +1,6 @@
 ---
 title: Names
-permalink: /names/
+permalink: /content/names/
 layout: page
 redirect: /our-style/names/
 ---

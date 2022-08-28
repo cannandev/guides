@@ -1,6 +1,6 @@
 ---
 title: Abbreviations and acronyms
-permalink: /abbreviations-and-acronyms/
+permalink: /content/abbreviations-and-acronyms/
 layout: page
 redirect: /our-style/abbreviations-and-acronyms/
 ---

@@ -1,8 +1,8 @@
 ---
-permalink: /color-palette/
+permalink: /brand/color-palette/
 layout: page
 title: Color palette
-permalink: /test-page/
+permalink: /brand/test-page/
 ---
 
 # I am an H1

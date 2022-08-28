@@ -1,5 +1,5 @@
 ---
-permalink: /logo/
+permalink: /brand/logo/
 layout: page
 title: Logo
 ---

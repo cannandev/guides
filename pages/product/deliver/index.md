@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deliver the “right way”
-permalink: /deliver/
+permalink: /product/deliver/
 sidenav: deliver
 sticky_sidenav: true
 ---

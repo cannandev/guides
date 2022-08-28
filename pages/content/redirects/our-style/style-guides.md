@@ -1,6 +1,6 @@
 ---
 title: Style guides
-permalink: /style-guides/
+permalink: /content/style-guides/
 layout: page
 redirect: /our-style/style-guides/
 ---

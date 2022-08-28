@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Values and principles
-permalink: /our-approach/values-and-principles/
+permalink: /ux/our-approach/values-and-principles/
 sidenav: our-approach
 sticky_sidenav: true
 subnav:

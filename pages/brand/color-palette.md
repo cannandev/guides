@@ -1,6 +1,6 @@
 ---
 id: color-palette
-permalink: /color-palette/
+permalink: /brand/color-palette/
 layout: wide
 title: Color palette
 ---

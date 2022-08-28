@@ -1,7 +1,7 @@
 ---
 title: iframe form
 description: Fill out this form
-permalink: /iframeform/
+permalink: /accessibility/iframeform/
 page_title: iFrame
 sitemap: false
 ---

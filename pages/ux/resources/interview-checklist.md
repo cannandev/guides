@@ -2,7 +2,7 @@
 title: Interview checklist
 description: Helpful reminders for moderating interviews
 layout: page
-permalink: /interview-checklist/
+permalink: /ux/interview-checklist/
 redirect: https://github.com/18F/ux-guide/blob/master/_pages/resources/interview-checklist.md
 ---
 

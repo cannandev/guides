@@ -1,7 +1,7 @@
 ---
 title: Alternative versions
 description: 'How we deal with Alternative Versions'
-permalink: /alternative-versions/
+permalink: /accessibility/alternative-versions/
 page_title: Alternative versions
 layout: page
 sidenav: docs

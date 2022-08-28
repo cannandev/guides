@@ -1,6 +1,6 @@
 ---
 title: Forms
-permalink: /forms/
+permalink: /content/forms/
 layout: page
 redirect: /our-style/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Punctuation
-permalink: /punctuation/
+permalink: /content/punctuation/
 layout: page
 redirect: /our-style/punctuation/
 ---

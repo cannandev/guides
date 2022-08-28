@@ -1,6 +1,6 @@
 ---
-title: Our style 
-permalink: /our-style/
+title: Our style
+permalink: /content/our-style/
 sidenav: our-style
 sticky_sidenav: true
 ---

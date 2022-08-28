@@ -3,6 +3,7 @@ layout: page
 title: Resources
 sidenav: overview
 sticky_sidenav: true
+permalink: /ux/resources/
 subnav:
   - text: Research
     href: "#research"

@@ -1,7 +1,7 @@
 ---
 title: CSS dependence
 description: 'How we deal with CSS'
-permalink: /css/
+permalink: /accessibility/css/
 page_title: CSS dependence
 layout: page
 sidenav: docs
