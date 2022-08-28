@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page_sidenav
 title: Accessibility Guide h1
 ---
 

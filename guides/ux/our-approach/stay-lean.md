@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stay lean
-permalink: /our-approach/stay-lean/
+alias: /our-approach/stay-lean/
 sidenav: our-approach
 sticky_sidenav: true
 subnav:

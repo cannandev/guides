@@ -1,5 +1,5 @@
 ---
-permalink: /research/lead/
+alias: /research/lead/
 layout: page
 title: Research lead
 sidenav: research

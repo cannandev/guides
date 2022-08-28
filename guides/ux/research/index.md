@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+alias: /research/
 sidenav: research
 sticky_sidenav: true
 ---

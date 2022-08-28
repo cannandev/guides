@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design
-permalink: /design/
+alias: /design/
 layout: page
 sidenav: design
 sticky_sidenav: true

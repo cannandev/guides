@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Defining design
-permalink: /our-approach/defining-design/
+alias: /our-approach/defining-design/
 sidenav: our-approach
 sticky_sidenav: true
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: /research/assist/
+alias: /research/assist/
 layout: page
 title: Assisting in research
 sidenav: research

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Do
-permalink: /research/do/
+alias: /research/do/
 sidenav: research
 sticky_sidenav: true
 subnav:

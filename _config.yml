@@ -36,21 +36,33 @@ collections:
   accessibility:
     output: true
     permalink: /:collection/:name
-
+  agile:
+    output: true
+    permalink: /:collection/:name
+  brand:
+    output: true
+    permalink: /:collection/:name
+  content:
+    output: true
+    permalink: /:collection/:name
+  derisking:
+    output: true
+    permalink: /:collection/:name
+  engineering:
+    output: true
+    permalink: /:collection/:name
+  product:
+    output: true
+    permalink: /:collection/:name
+  ux:
+    output: true
+    permalink: /:collection/:path
 # Page defaults
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: page
-  - scope:
-      path: "pages/accessibility/*"
-    values:
-      guide_type: Accessibility Guide
-  - scope:
-      path: "pages/agile/*" # an empty string here means all files in the project
-    values:
-      guide_type: Agile Guide
 
 # Permalinks
 permalink: /:categories/:year/:month/:day/:slug

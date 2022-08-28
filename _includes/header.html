@@ -4,25 +4,26 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="https://agile.18f.gov/images/18f-logo-black.svg" style="height: 32px;" alt="18F Home"></a>
+    <a class="site-title" rel="author" href="{{ " /" | relative_url }}"><img
+        src="https://agile.18f.gov/images/18f-logo-black.svg" style="height: 32px;" alt="18F Home"></a>
 
 
-    {%- if page.guide_type -%}
-    {{ page.guide_type }}
+    {%- if page.collection -%}
+    {{ page.collection }}
     {%- else -%}
     {{ site.title | escape }}
     {%- endif -%}
 
 
-   <section aria-label="Search component">
-    <form class="usa-search" role="search">
-      <label class="usa-sr-only" for="search-field">Search</label>
-      <input class="usa-input" id="search-field" type="search" name="search" />
-      <button class="usa-button" type="submit">
-        <span class="usa-search__submit-text">Search </span>
-      </button>
-    </form>
-  </section>
+    <section aria-label="Search component">
+      <form class="usa-search" role="search">
+        <label class="usa-sr-only" for="search-field">Search</label>
+        <input class="usa-input" id="search-field" type="search" name="search" />
+        <button class="usa-button" type="submit">
+          <span class="usa-search__submit-text">Search </span>
+        </button>
+      </form>
+    </section>
 
 
     {%- if titles_size > 0 -%}
@@ -38,7 +39,7 @@
       </label>
 
       <div class="trigger">
-       _data/guides.yml > nav items
+        menu categories
       </div>
     </nav>
     {%- endif -%}

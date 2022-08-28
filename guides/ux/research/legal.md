@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legal
-permalink: /research/legal/
+alias: /research/legal/
 sidenav: research
 sticky_sidenav: true
 subnav:
