@@ -4,7 +4,7 @@ Date: 2022-08-27
 
 ## Status
 
-Accepted
+Superceded by [9. Include path in collection permalink](0009-include-path-in-collection-permalink.md)
 
 ## Context
 
