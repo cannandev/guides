@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Understand your key stakeholders
-alias: /discover/stakeholders/
+permalink: /product/discover/stakeholders/
 sidenav: discover
 sticky_sidenav: true
 ---

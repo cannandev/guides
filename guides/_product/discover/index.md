@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Discover the current state
-alias: /discover/
+permalink: /product/discover/
 sidenav: discover
 sticky_sidenav: true
 ---

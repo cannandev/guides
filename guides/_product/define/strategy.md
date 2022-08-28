@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Develop a strategy
-alias: /define/strategy/
+permalink: /product/define/strategy/
 sidenav: define
 sticky_sidenav: true
 ---

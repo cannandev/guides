@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Create a vision
-alias: /define/vision/
+permalink: /product/define/vision/
 sidenav: define
 sticky_sidenav: true
 ---

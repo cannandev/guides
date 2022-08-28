@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work with the vendor
-alias: /partners/vendor/
+permalink: /product/partners/vendor/
 sidenav: partners
 sticky_sidenav: true
 ---

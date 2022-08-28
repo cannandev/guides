@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coach the product owner
-alias: /partners/coach/
+permalink: /product/partners/coach/
 sidenav: partners
 sticky_sidenav: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Plan for the transition
-alias: /partners/transition/
+permalink: /product/partners/transition/
 sidenav: partners
 sticky_sidenav: true
 ---

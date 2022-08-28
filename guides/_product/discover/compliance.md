@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Understand the regulatory landscape
-alias: /discover/compliance/
+permalink: /product/discover/compliance/
 sidenav: discover
 sticky_sidenav: true
 ---
