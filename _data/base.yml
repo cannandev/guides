@@ -1,0 +1,9 @@
+banner:
+  header_text: An official website of the United States government
+  header_action: "Here’s how you know"
+  header_official: "<strong>Official websites use .gov</strong><br />A
+    <strong>.gov</strong> website belongs to an official government
+    organization in the United States."
+  header_secure: "means you’ve safely connected to
+    the .gov website. Share sensitive information only on official,
+    secure websites."
