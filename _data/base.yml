@@ -24,6 +24,8 @@ search:
   label: Search
 header:
   menu_label: Menu
+  logo_label: Home
+  logo_alt: 18F logo with white text on a black square background
 identifier:
   agency_prefix: An official website of the
   agency_suffix: and the

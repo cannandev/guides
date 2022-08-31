@@ -2,8 +2,11 @@
   <div class="usa-navbar">
     <div class="usa-logo" id="logo">
       <em class="usa-logo__text">
-        <a href="/" accesskey="1" title="Home" aria-label="Home"> <img src="/images/18F.svg"
-            alt="18F logo with white text on a black square background" width="72">{{ page.collection | capitalize}}
+        <a href="/" accesskey="1" title="{{ site.data.header.logo_label }}"
+          aria-label="{{ site.data.header.logo_label }}"> <img src="/images/18F.svg"
+            alt="{{ site.data.header.logo_alt }}" width="72"></a>
+        <a href="/" accesskey="1" title="{{ site.data.header.logo_label }}"
+          aria-label="{{ site.data.header.logo_label }}"> {{ page.collection | capitalize}}
           {{ site.guide_label }}</a>
       </em>
     </div>
@@ -16,13 +19,13 @@
       </button>
       <ul class="usa-nav__primary usa-accordion">
         <li class="usa-nav__primary-item usa-current">
-          <a href="" class="usa-nav-link"><span>&lt;Simple link&gt;</span></a>
+          <a href="" class="usa-nav-link"><span>&lt;Category link&gt;</span></a>
         </li>
         <li class="usa-nav__primary-item">
-          <a href="" class="usa-nav-link"><span>&lt;Simple link&gt;</span></a>
+          <a href="" class="usa-nav-link"><span>&lt;Category link&gt;</span></a>
         </li>
         <li class="usa-nav__primary-item">
-          <a href="" class="usa-nav-link"><span>&lt;Simple link&gt;</span></a>
+          <a href="" class="usa-nav-link"><span>&lt;Category link&gt;</span></a>
         </li>
       </ul>
       <div class="usa-nav__secondary usa-header--extended">
@@ -32,3 +35,4 @@
     </div>
   </nav>
 </header>
+{%- include base/breadcrumb.html -%}
