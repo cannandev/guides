@@ -27,3 +27,18 @@ header:
 identifier:
   agency_prefix: An official website of the
   agency_suffix: and the
+  nav:
+    - text: About 18F
+      url: /
+    - text: Accessibility support
+      url: /
+    - text: FOIA requests
+      url: /
+    - text: No FEAR Act data
+      url: /
+    - text: Office of the Inspector General
+      url: /
+    - text: Performance reports
+      url: /
+    - text: Privacy policy
+      url: /
