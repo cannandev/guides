@@ -1,5 +1,3 @@
-<h3 class="site-preview-heading">Multiple parent identifier</h3>
-
 <div class="usa-identifier">
   <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier,,,">
     <div class="usa-identifier__container">
@@ -21,8 +19,8 @@
           {%- endif -%}
         </p>
         <p class="usa-identifier__identity-disclaimer">
-          An official website of the <a href=""> {{ site.agency_primary }} </a> and
-          the <a href="javascript:void(0)">{{ site.agency_secondary }}</a>
+          {{ site.data.base.identifier.agency_prefix }} <a href="">{{ site.agency_primary }}</a>
+          {{ site.data.base.identifier.agency_suffix }} <a href="javascript:void(0)">{{ site.agency_secondary }}</a>
         </p>
       </div>
     </div>

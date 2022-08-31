@@ -22,3 +22,8 @@ alerts:
   text: Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.
 search:
   label: Search
+header:
+  menu_label: Menu
+identifier:
+  agency_prefix: An official website of the
+  agency_suffix: and the
