@@ -29,9 +29,9 @@ Search (per guide)
 |component name/link | include filename |
 | --- | --- |
 | Search | default.html > header.html |
-| Banner | default.html > banner.html |
+| Banner | default.html > uswds/banner.html |
 | Identifier | default.html > footer.html > identifier.html |
-| [Alerts](https://designsystem.digital.gov/components/alert/) | alerts.html |
+| [Alerts](https://designsystem.digital.gov/components/alert/) | uswds/alerts.html |
 
 ### Content
 
