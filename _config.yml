@@ -26,7 +26,8 @@ github_username: jekyll
 agency_primary: GSA
 agency_secondary: TTS
 guide_label: Guide
-guide_cta: Visit the Guide
+guide_cta: Visit
+guide_back: Back to Guides
 
 # Build settings
 plugins:

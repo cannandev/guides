@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About this guide
+permalink: /ux/
 ---
 [//]: make it possible to put a class on a ul tag
 {::options parse_block_html="true" /}
