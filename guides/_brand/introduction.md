@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Introduction
+permalink: /brand/
 ---
 
 This toolkit was developed for 18F employees, but we hope it&rsquo;s a useful reference for anyone, whether you&rsquo;re on another design team or a member of the press.

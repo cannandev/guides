@@ -4,52 +4,42 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-  <h1 class="page-heading">Yay! {{ page.title | escape }}</h1>
+  <header>
+    <h1 class="page-heading">{{ page.title | escape }}</h1>
+    <h2>{{ page.description }}</h2>
+  </header>
   {%- endif -%}
+
+  <p>{{ page.sections[0] }}</p>
+
+  <p><strong>{{ page.sections[1] }}</strong></p>
+
+  <ul class="usa-card-group">
+    {% for item in site.collections %}
+
+    <li class="usa-card tablet:grid-col-4">
+      <div class="usa-card__container">
+        <div class="usa-card__media">
+          <div class="usa-card__img">
+            <img src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
+              alt="A placeholder image" />
+          </div>
+        </div>
+        <div class="usa-card__body">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis earum
+            tenetur quo cupiditate, eaque qui officia recusandae.
+          </p>
+        </div>
+        <div class="usa-card__footer">
+          <a href="{{ baseurl }}/{{ item.label }}" class="usa-button">{{ site.guide_cta }}
+            {{ item.label | capitalize }}</a>
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
 
   {{ content }}
-
-
-  {% if site.paginate %}
-  {% assign posts = paginator.posts %}
-  {% else %}
-  {% assign posts = site.posts %}
-  {% endif %}
-
-  {%- assign default_paths = site.pages | map: "path" -%}
-
-  {%- assign page_paths = site.header_pages | default: default_paths -%}
-
-  {%- for path in page_paths -%}
-  {%- assign my_page = site.pages | where: "path", path | first -%}
-  {%- if my_page.title -%}
-  <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-  {%- endif -%}
-  {%- endfor -%}
-
-  {% if site.paginate %}
-  <div class="pager">
-    <ul class="pagination">
-      {%- if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | relative_url }}"
-          class="previous-page">{{ paginator.previous_page }}</a></li>
-      {%- else %}
-      <li>
-        <div class="pager-edge">•</div>
-      </li>
-      {%- endif %}
-      <li>
-        <div class="current-page">{{ paginator.page }}</div>
-      </li>
-      {%- if paginator.next_page %}
-      <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-      {%- else %}
-      <li>
-        <div class="pager-edge">•</div>
-      </li>
-      {%- endif %}
-    </ul>
-  </div>
-  {%- endif %}
 
 </div>
